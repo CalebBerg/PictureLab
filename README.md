@@ -1,3 +1,3 @@
 # Picture Lab
-THIS CONTAINS ALL OF THE ANSWERS UP TO ACTIVITY 9.
-/nCONTRIBUTORS ARE CALEB BERG AND EDMON SNYDER.
+This repository contains all of the answers up to Activity 9.
+Contributors are Caleb Berg & Edmon Snyder
