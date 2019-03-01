@@ -1,2 +1,3 @@
-# PictureLab
-A Java program for AP Computer Science that focuses on images.
+# Picture Lab
+THIS CONTAINS ALL OF THE ANSWERS UP TO ACTIVITY 9.
+CONTRIBUTORS ARE #CALEB BERG AND #EDMON SNYDER.
